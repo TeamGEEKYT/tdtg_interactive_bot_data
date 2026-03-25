@@ -1,11 +1,11 @@
 {
-  "verDesc": "Pour cette mise à jour, je n'ai pas fais grand chose. J'ai juste réglé deux trucs.",
-  "additions": "-",
-  "changes": "-",
+  "verDesc": "Je m'attendais pas à faire une nouvelle mise à jour ce mois, mais je l'ai fais, et c'est massif, puisque ca prouve que je peux faire un système où le bot parle dans plusieurs langues.",
+  "additions": "- Commandes `!lang` et `!update` ajoutées",
+  "changes": "- Message d'au revoir enfin réglé",
   "removed": "-",
-  "notes": "-",
+  "notes": "Pour l'instant, le Français et le Japonais contient tous les deux des textes non traduits. Ces textes risquent d'être montrés en Anglais.",
 
-  "versionTitle": "VERSION 1.0.231",
+  "versionTitle": "VERSION 1.0.24",
   "addTitle": "Ajouts",
   "fixTitle": "Changements et réparations",
   "removedTitle": "Retirés",
