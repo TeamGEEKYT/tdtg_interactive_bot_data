@@ -1,5 +1,5 @@
 {
-  "verDesc": "I did not excepted to do another update for this month, but I did another one, and it is massive, because it proves I can make the bot in multiple languages.",
+  "verDesc": "I did not excepted to do another update for this month, but I did another one, and it is massive, because it proves I can make the bot pretty much internationnal.",
   "additions": "- `!lang` and `!update` commands added",
   "changes": "- Finally fixed the leaving message",
   "removed": "-",
