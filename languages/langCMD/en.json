@@ -1,0 +1,13 @@
+{
+  "title": "LANGUAGES",
+  "desc": "Available languages:",
+
+  "enTitle": "ENGLISH",
+  "enDesc": "Default Language. If a translation is missing, English will be used instead.",
+
+  "frTitle": "FRENCH",
+  "frDesc": "Some French words are somehow close from English.",
+
+  "jpTitle": "JAPANESE",
+  "I love Japan. Now you know why Japanese is an available language here.",
+}
