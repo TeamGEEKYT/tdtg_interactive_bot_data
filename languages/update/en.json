@@ -1,11 +1,11 @@
 {
-  "verDesc": "I did not excepted to do another update for this month, but I did another one, and it is massive, because it proves I can make the bot pretty much internationnal.",
-  "additions": "- `!lang` and `!update` commands added",
-  "changes": "- Finally fixed the leaving message",
+  "verDesc": "Small update...",
+  "additions": "- `!lang` and `!help` got translations in French and Japanese",
+  "changes": "- Fixed `!ytvideo` command not showing up in `!help`",
   "removed": "-",
-  "notes": "As of right now, French and Japanese both contains untranslated texts. The texts might be shown in English in that case.",
+  "notes": "As of right now, French and Japanese still contains untranslated texts. The texts might be shown in English in that case.",
 
-  "versionTitle": "VERSION 1.0.24",
+  "versionTitle": "VERSION 1.0.241",
   "addTitle": "Additions",
   "fixTitle": "Fixes and changes",
   "removedTitle": "Removed",
