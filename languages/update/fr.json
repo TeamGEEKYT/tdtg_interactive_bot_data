@@ -1,11 +1,11 @@
 {
-  "verDesc": "Je m'attendais pas à faire une nouvelle mise à jour ce mois, mais je l'ai fais, et c'est massif, puisque ca prouve que je peux faire un système où le bot parle dans plusieurs langues.",
-  "additions": "- Commandes `!lang` et `!update` ajoutées",
-  "changes": "- Message d'au revoir enfin réglé",
+  "verDesc": "Small update...",
+  "additions": "- `!lang` et `!help` ont eu des traductions en Français et Japonais",
+  "changes": "- Commande `!ytvideo` non affichée dans `!help` réglé",
   "removed": "-",
-  "notes": "Pour l'instant, le Français et le Japonais contient tous les deux des textes non traduits. Ces textes risquent d'être montrés en Anglais.",
+  "notes": "Pour l'instant, le Français et le Japonais contiennent encore des textes non traduits. Ces textes risquent d'être montrés en Anglais.",
 
-  "versionTitle": "VERSION 1.0.24",
+  "versionTitle": "VERSION 1.0.241",
   "addTitle": "Ajouts",
   "fixTitle": "Changements et réparations",
   "removedTitle": "Retirés",
