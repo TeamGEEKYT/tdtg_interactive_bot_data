@@ -1,0 +1,22 @@
+{
+  "title": "JEUX",
+  "description": "Choisissez un jeu pour obtenir des informations sur celui-ci.",
+  "lastupd": "Derniers changements: ",
+  
+  "ftcme": "**FTC: ME** est un jeu où vous devez trouver... Des voitures. C'est tout.",
+
+  "supporttitle": "SUPPORTS:",  
+  "consolesupported": "Manette Supporté",
+  "vrsupported": "VR Supporté",
+
+  "langtitle": "LANGUES (M = Manuel / A = Automatique):",
+  "langEN": "Anglais (M)",
+  "langFR": "Français (M)",
+  "langJP": "Japonais (A)",
+  "langExtra": "Et plus (A)",
+  
+  "status_indev": "Statut: En Développement",
+  "status_discontinued": "Statut: Sans Suite",
+  "status_maintenance": "Statut: En Maintenance",
+  "status_fine": "Statut: Publique"
+}
