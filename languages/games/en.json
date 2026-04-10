@@ -1,0 +1,22 @@
+{
+  "title": "GAMES",
+  "description": "Choose a game to get informations from it.",
+  "lastupd": "Last Update: ",
+  
+  "ftcme": "**FTC: ME** is a game where you need to find... Cars. That's it.",
+
+  "supporttitle": "SUPPORTS:",  
+  "consolesupported": "Controller Supported",
+  "vrsupported": "VR Supported",
+
+  "langtitle": "LANGUAGES (M = Manual / A = Auto):",
+  "langEN": "English (M)",
+  "langFR": "French (M)",
+  "langJP": "Japanese (A)",
+  "langExtra": "And more (A)",
+  
+  "status_indev": "Status: In Dev",
+  "status_discontinued": "Status: Discontinued",
+  "status_maintenance": "Status: In Maintenance",
+  "status_fine": "Status: Up"
+}
