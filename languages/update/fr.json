@@ -1,11 +1,11 @@
 {
-  "verDesc": "Small update...",
-  "additions": "- `!lang` et `!help` ont eu des traductions en Français et Japonais",
-  "changes": "- Commande `!ytvideo` non affichée dans `!help` réglé",
+  "verDesc": "The Maybe-Games Update?",
+  "additions": "- `!games` et les informations du jeu FTC: ME ont des traductions Françaises et Japonaises\n- Ajout de détails dans les informations des jeux, comme la compatibilité avec les manettes et la VR, les langues et le statut du jeu (Sans Suite, Publique, En Développement, etc)",
+  "changes": "- `!ytvideo` réglé\n- Message d'au revoir réglé encore",
   "removed": "-",
   "notes": "Pour l'instant, le Français et le Japonais contiennent encore des textes non traduits. Ces textes risquent d'être montrés en Anglais.",
 
-  "versionTitle": "VERSION 1.0.241",
+  "versionTitle": "VERSION 1.0.25",
   "addTitle": "Ajouts",
   "fixTitle": "Changements et réparations",
   "removedTitle": "Retirés",
