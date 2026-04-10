@@ -1,0 +1,22 @@
+{
+"title": "ゲーム",
+"description": "ゲームを選択して情報を取得してください。",
+"lastupd": "最終更新日: "",
+
+"ftcme": "**FTC: ME**は、車を探すゲームです。それだけです。",
+
+"supporttitle": "対応機種:",
+"consolesupported": "コントローラー対応",
+"vrsupported": "VR対応",
+
+"langtitle": "対応言語 (M = 手動 / A = 自動):",
+"langEN": "英語 (M)",
+"langFR": "フランス語 (M)",
+"langJP": "日本語 (A)",
+"langExtra": "その他 (A)",
+
+"status_indev": "ステータス: 開発中",
+"status_discontinued": "ステータス: 販売終了",
+"status_maintenance": "ステータス: メンテナンス中",
+"status_fine": "ステータス: 上"
+}
