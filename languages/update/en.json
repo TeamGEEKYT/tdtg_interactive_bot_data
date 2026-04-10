@@ -1,11 +1,11 @@
 {
-  "verDesc": "Small update...",
-  "additions": "- `!lang` and `!help` got translations in French and Japanese",
-  "changes": "- Fixed `!ytvideo` command not showing up in `!help`",
+  "verDesc": "The Maybe-Games Update?",
+  "additions": "- `!games` and FTC: ME games informations got translations in French and Japanese\n- Added details in games informations, such as compatibility with controllers and VR, languages and game status (Discontinued, Up, In Dev, etc)",
+  "changes": "- Fixed `!ytvideo` not working\n- fixed again Goodbye message",
   "removed": "-",
   "notes": "As of right now, French and Japanese still contains untranslated texts. The texts might be shown in English in that case.",
 
-  "versionTitle": "VERSION 1.0.241",
+  "versionTitle": "VERSION 1.0.25",
   "addTitle": "Additions",
   "fixTitle": "Fixes and changes",
   "removedTitle": "Removed",
