@@ -18,5 +18,6 @@
   "status_indev": "Statut: En Développement",
   "status_discontinued": "Statut: Sans Suite",
   "status_maintenance": "Statut: En Maintenance",
+  "status_rewamp": "Status: Recréation",
   "status_fine": "Statut: Publique"
 }
