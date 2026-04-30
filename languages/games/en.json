@@ -18,5 +18,6 @@
   "status_indev": "Status: In Dev",
   "status_discontinued": "Status: Discontinued",
   "status_maintenance": "Status: In Maintenance",
+  "status_rewamp": "Status: Rewamping",
   "status_fine": "Status: Up"
 }
