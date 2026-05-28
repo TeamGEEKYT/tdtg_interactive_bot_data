@@ -7,5 +7,7 @@
   "credits": "Credits",
   "games": "games",
   "update": "See latest update logs",
-  "lang": "Change bot display language"
+  "lang": "Change bot display language",
+  "daily": "Collect your daily reward",
+  "money": "See your amount of money"
 }
