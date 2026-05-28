@@ -1,11 +1,11 @@
 {
-  "verDesc": "The Maybe-Games Update?",
-  "additions": "- `!games` and FTC: ME games informations got translations in French and Japanese\n- Added details in games informations, such as compatibility with controllers and VR, languages and game status (Discontinued, Up, In Dev, etc)",
-  "changes": "- Fixed `!ytvideo` not working\n- fixed again Goodbye message",
+  "verDesc": "Beginning of Money System deploymnent",
+  "additions": "- `!daily` and `!money` added",
+  "changes": "- Fixed many bugs",
   "removed": "-",
   "notes": "As of right now, French and Japanese still contains untranslated texts. The texts might be shown in English in that case.",
 
-  "versionTitle": "VERSION 1.0.25",
+  "versionTitle": "VERSION 1.0.3",
   "addTitle": "Additions",
   "fixTitle": "Fixes and changes",
   "removedTitle": "Removed",
